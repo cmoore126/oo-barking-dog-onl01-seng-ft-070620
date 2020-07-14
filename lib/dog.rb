@@ -3,7 +3,7 @@
 
 
 
-class Dog# Your code goes here!
- def bark
-   puts "Woof"
+class Dog
+  def bark
+  puts "Woof"
 end
